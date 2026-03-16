@@ -1,0 +1,182 @@
+ member_id 
+-----------
+       116
+        74
+        54
+       138
+        51
+        70
+       105
+       132
+       107
+        84
+       144
+        39
+        92
+        36
+        60
+        13
+       118
+       135
+        65
+       111
+       127
+         2
+       123
+        98
+        11
+        44
+        99
+       142
+        88
+        41
+       125
+        40
+        43
+        53
+        32
+         7
+       139
+       140
+        48
+        24
+        81
+        77
+        17
+        20
+         1
+         5
+        55
+       130
+        27
+        23
+        58
+         8
+(52 rows)
+
+ member_id 
+-----------
+        68
+       138
+       125
+        80
+        83
+        53
+        90
+       100
+        38
+        15
+       150
+       107
+       140
+        48
+        12
+        95
+        93
+        60
+        47
+        20
+       118
+       135
+        65
+         5
+       110
+        27
+       130
+        58
+        73
+        11
+(30 rows)
+
+ member_id |  member_name  | plan_type 
+-----------+---------------+-----------
+        20 | Tanya Ivanov  | HDHP
+         1 | Alice Monroe  | PPO
+        19 | Samuel Cross  | PPO
+        12 | Liam Novak    | HDHP
+        85 | Iris Caldwell | EPO
+        74 | Xavier Cole   | HMO
+        50 | Yara Mendez   | HMO
+       100 | Yuri Popov    | HDHP
+       108 | Grant Holt    | HDHP
+        25 | Yosef Abadi   | EPO
+        60 | Jake Connors  | HDHP
+       147 | Vera Knoll    | PPO
+        98 | Walter Hsu    | HMO
+        40 | Nina Olsen    | HDHP
+       116 | Owen Gage     | HDHP
+         4 | Daniel Frey   | EPO
+       103 | Bianca Valle  | PPO
+       150 | Remy Alcott   | HMO
+        91 | Opal Simpson  | PPO
+        23 | William Chang | PPO
+       133 | Gwen Shore    | EPO
+        38 | Laura Stone   | HMO
+        30 | Diana Frost   | HMO
+       140 | Nico Bray     | HDHP
+        51 | Amelia Hart   | PPO
+(25 rows)
+
+ member_id 
+-----------
+         4
+         6
+         9
+        11
+        14
+        16
+        19
+        21
+        24
+        26
+        29
+        31
+        34
+        36
+        39
+        41
+        44
+        46
+        49
+        51
+        54
+        56
+        59
+        61
+        64
+        66
+        69
+        71
+        74
+        76
+        79
+        81
+        84
+        86
+        89
+        91
+        94
+        96
+        99
+       101
+       104
+       106
+       109
+       111
+       114
+       116
+       119
+       121
+       124
+       126
+       129
+       131
+       134
+       136
+       139
+       141
+       144
+       146
+       149
+(59 rows)
+

@@ -1,0 +1,31 @@
+ member_id |  member_name   | plan_type | state | member_age | total_calls | avg_satisfaction | escalation_count | repeat_7d_count | repeat_7d_pct | abandoned_count | frequency_quartile | risk_score | risk_tier 
+-----------+----------------+-----------+-------+------------+-------------+------------------+------------------+-----------------+---------------+-----------------+--------------------+------------+-----------
+        12 | Liam Novak     | HDHP      | NJ    |         37 |           6 |             2.83 |                1 |               1 |          16.7 |               0 |                  1 |       47.7 | High
+         1 | Alice Monroe   | PPO       | NY    |         59 |          18 |             4.17 |                1 |               8 |          44.4 |               0 |                  1 |       46.3 | High
+        23 | William Chang  | PPO       | CA    |         38 |           5 |             2.80 |                1 |               0 |           0.0 |               0 |                  1 |       43.8 | High
+        50 | Yara Mendez    | HMO       | VA    |         24 |           9 |             3.44 |                1 |               1 |          11.1 |               0 |                  1 |       42.5 | High
+        98 | Walter Hsu     | HMO       | VA    |         54 |           4 |             3.00 |                2 |               0 |           0.0 |               0 |                  2 |       41.3 | High
+        85 | Iris Caldwell  | EPO       | TX    |         52 |           6 |             3.33 |                1 |               0 |           0.0 |               0 |                  1 |       40.4 | High
+        30 | Diana Frost    | HMO       | MA    |         47 |           6 |             3.33 |                1 |               0 |           0.0 |               0 |                  1 |       40.4 | High
+        60 | Jake Connors   | HDHP      | AZ    |         48 |           6 |             3.50 |                1 |               0 |           0.0 |               0 |                  1 |       39.4 | Medium
+       108 | Grant Holt     | HDHP      | PA    |         36 |           3 |             2.67 |                1 |               0 |           0.0 |               0 |                  2 |       38.3 | Medium
+        25 | Yosef Abadi    | EPO       | IL    |         53 |           7 |             3.71 |                1 |               0 |           0.0 |               0 |                  1 |       38.1 | Medium
+       140 | Nico Bray      | HDHP      | PA    |         30 |           6 |             3.83 |                1 |               0 |           0.0 |               0 |                  1 |       37.3 | Medium
+       100 | Yuri Popov     | HDHP      | FL    |         60 |           7 |             3.86 |                1 |               0 |           0.0 |               0 |                  1 |       37.1 | Medium
+       133 | Gwen Shore     | EPO       | NC    |         46 |           3 |             3.00 |                1 |               0 |           0.0 |               0 |                  2 |       36.3 | Medium
+        74 | Xavier Cole    | HMO       | PA    |         49 |           1 |             2.00 |                1 |               0 |           0.0 |               0 |                  3 |       36.3 | Medium
+         4 | Daniel Frey    | EPO       | FL    |         68 |           1 |             2.00 |                1 |               0 |           0.0 |               0 |                  3 |       36.3 | Medium
+        91 | Opal Simpson   | PPO       | OH    |         33 |           2 |             2.00 |                1 |               0 |           0.0 |               0 |                  3 |       36.3 | Medium
+        10 | Jack Underwood | HMO       | OH    |         53 |           6 |             3.20 |                0 |               0 |           0.0 |               1 |                  1 |       36.3 | Medium
+        20 | Tanya Ivanov   | HDHP      | WA    |         31 |           6 |             4.00 |                1 |               0 |           0.0 |               1 |                  1 |       36.3 | Medium
+... (154 total lines — middle rows omitted for brevity) ...
+       106 | Eli Frost      | HMO       | IL    |         31 |           1 |             5.00 |                0 |               0 |           0.0 |               0 |                  4 |        6.3 | Low
+        86 | Jerome Black   | HMO       | CA    |         40 |           1 |             5.00 |                0 |               0 |           0.0 |               0 |                  4 |        6.3 | Low
+        89 | Marta Vega     | EPO       | IL    |         45 |           1 |             5.00 |                0 |               0 |           0.0 |               0 |                  4 |        6.3 | Low
+       101 | Zelda Marsh    | EPO       | TX    |         34 |           1 |             5.00 |                0 |               0 |           0.0 |               0 |                  4 |        6.3 | Low
+       136 | Jude Kane      | HDHP      | CA    |         23 |           1 |             5.00 |                0 |               0 |           0.0 |               0 |                  4 |        6.3 | Low
+        54 | Dominic Lara   | HMO       | CA    |         31 |           1 |             5.00 |                0 |               0 |           0.0 |               0 |                  4 |        6.3 | Low
+        96 | Ulric Webb     | HDHP      | MI    |         29 |           1 |             5.00 |                0 |               0 |           0.0 |               0 |                  4 |        6.3 | Low
+       126 | Zeke Booth     | HMO       | AZ    |         58 |           1 |             5.00 |                0 |               0 |           0.0 |               0 |                  4 |        6.3 | Low
+(150 rows)
+
