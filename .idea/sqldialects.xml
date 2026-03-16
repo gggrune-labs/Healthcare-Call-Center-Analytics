@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$USER_HOME$/Documents/healthcare call center/create_tables.sql" dialect="PostgreSQL" />
+    <file url="file://$USER_HOME$/Documents/healthcare call center/q01_monthly_volume_pivot.sql" dialect="PostgreSQL" />
+    <file url="file://$USER_HOME$/Documents/healthcare call center/q02_agent_ranking.sql" dialect="PostgreSQL" />
+    <file url="file://$USER_HOME$/Documents/healthcare call center/q03_repeat_callers_7day.sql" dialect="PostgreSQL" />
+    <file url="file://$USER_HOME$/Documents/healthcare call center/q04_shift_analysis.sql" dialect="PostgreSQL" />
+    <file url="file://$USER_HOME$/Documents/healthcare call center/q05_agent_vs_dept_avg.sql" dialect="PostgreSQL" />
+    <file url="file://$USER_HOME$/Documents/healthcare call center/q06_rolling_trends.sql" dialect="PostgreSQL" />
+    <file url="file://$USER_HOME$/Documents/healthcare call center/q07_set_operations.sql" dialect="PostgreSQL" />
+    <file url="file://$USER_HOME$/Documents/healthcare call center/q08_recursive_call_chains.sql" dialect="PostgreSQL" />
+    <file url="file://$USER_HOME$/Documents/healthcare call center/q09_member_risk_scoring.sql" dialect="PostgreSQL" />
+    <file url="file://$USER_HOME$/Documents/healthcare call center/q10_agent_scorecard.sql" dialect="PostgreSQL" />
+  </component>
+</project>

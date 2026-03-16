@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="callcenter@callcenter-sql-project.c8t8k8i0cszd.us-east-1.rds.amazonaws.com" uuid="66ea08d8-8a6f-490e-a37e-1501ae690f28">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://callcenter-sql-project.c8t8k8i0cszd.us-east-1.rds.amazonaws.com:5432/callcenter</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>

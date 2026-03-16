@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$USER_HOME$/Documents/healthcare call center/create_tables.sql" value="66ea08d8-8a6f-490e-a37e-1501ae690f28" />
+    <file url="file://$USER_HOME$/Documents/healthcare call center/q02_agent_ranking.sql" value="66ea08d8-8a6f-490e-a37e-1501ae690f28" />
+    <file url="file://$USER_HOME$/Documents/healthcare call center/q03_repeat_callers_7day.sql" value="66ea08d8-8a6f-490e-a37e-1501ae690f28" />
+    <file url="file://$USER_HOME$/Documents/healthcare call center/q04_shift_analysis.sql" value="66ea08d8-8a6f-490e-a37e-1501ae690f28" />
+    <file url="file://$USER_HOME$/Documents/healthcare call center/q05_agent_vs_dept_avg.sql" value="66ea08d8-8a6f-490e-a37e-1501ae690f28" />
+    <file url="file://$USER_HOME$/Documents/healthcare call center/q06_rolling_trends.sql" value="66ea08d8-8a6f-490e-a37e-1501ae690f28" />
+    <file url="file://$USER_HOME$/Documents/healthcare call center/q07_set_operations.sql" value="66ea08d8-8a6f-490e-a37e-1501ae690f28" />
+    <file url="file://$USER_HOME$/Documents/healthcare call center/q08_recursive_call_chains.sql" value="66ea08d8-8a6f-490e-a37e-1501ae690f28" />
+    <file url="file://$USER_HOME$/Documents/healthcare call center/q09_member_risk_scoring.sql" value="66ea08d8-8a6f-490e-a37e-1501ae690f28" />
+    <file url="file://$USER_HOME$/Documents/healthcare call center/q10_agent_scorecard.sql" value="66ea08d8-8a6f-490e-a37e-1501ae690f28" />
+  </component>
+</project>
